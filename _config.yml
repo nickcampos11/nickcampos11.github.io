@@ -23,7 +23,7 @@ repository               : "nickcampos11/nickcampos11.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Nick Campos"
   pronouns         : "he/him"  
   bio              : #"Short biography for the left-hand sidebar"
@@ -165,6 +165,9 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - _portfolio
+  - _posts
+  - _talks
   - .asset-cache
   - .bundle
   - .github
